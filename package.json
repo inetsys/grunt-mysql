@@ -1,0 +1,19 @@
+{
+  "name": "grunt-mysql",
+  "version": "0.0.1",
+  "description": "Basic functionality for managing MySQL",
+  "main": "index.js",
+  "scripts": {
+    "test": "grunt test"
+  },
+  "author": "INETSYS",
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://github.com/inetsys/grunt-pgsql/blob/master/LICENSE-MIT"
+    }
+  ],
+  "engines": {
+    "node": ">= 0.8.0"
+  }
+}
